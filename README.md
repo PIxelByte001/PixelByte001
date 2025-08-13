@@ -1,4 +1,4 @@
-## Hi there 👋
+![snake gif](https://github.com/your_github_name/your_github_name/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **PIxelByte001/PixelByte001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
